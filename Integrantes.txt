@@ -1,0 +1,23 @@
+Dannery Ortega: Programe las funciones de resultado de cada boton, 
+es decir todo lo escrito en el archivo script de la carpeta js.
+
+Oneyda Perez:lo que realice en css fue organizar la presentacion
+
+del proyecto para que de un buen aspecto. lo que hice fue arreglar
+el ancho, la altura  
+el relleno, la aliniacion del texto,
+color de
+fondo para dar una buena prentacion.
+
+Andres uribe:yo estructure el formulario con sus repectivos input,
+la validacion, sus requiremiento coloque la imagen de fondo
+junto al cambio de color de letra en el css
+
+Greisy Pistala: Lo que realmente se hizo en HTML es plantear una
+sierta  estructura para que nos permita ejecutar o estructurar
+la información de la calculadora.
+Añado que html no es un lenguaje de programación
+que ya no cuenta con funciones aritmética,variables o estructuras
+de control por es necesario utilizar otros tipos de comando
+o declaraciones de variables de otro lenguaje de programación para
+modificar o diseñar una buena estrura y el cliente se sienta satisfecho.
